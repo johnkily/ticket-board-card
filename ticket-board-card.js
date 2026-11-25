@@ -13,7 +13,7 @@
  *
  * MIT-Lizenz · https://github.com/johnkily/ticket-board-card
  */
-const TB_VERSION = "1.1.0";
+const TB_VERSION = "1.1.1";
 const TB_MARKE = "\n\n⚙ ";
 
 const TB_TEXTE = {
