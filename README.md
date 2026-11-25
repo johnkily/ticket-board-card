@@ -87,6 +87,17 @@ Full guide: [ticket board guide](https://github.com/johnkily/ha-blueprints/blob/
 | “Mine” shows nothing | Is your HA user linked to your person? |
 | The old version is shown | Manual install: increase the number after `?v=`. Marketplace: reload the app. |
 
+## More from our house
+
+This card is part of our own Home Assistant setup. There is more from it:
+
+- **[How our board works with an AI caretaker](https://kilysworld.com/in-english/#ai-caretaker)** – approved tickets get built at night, and we review them in the morning. The card doesn't need any of that.
+- **[Haus-Wrapped Card](https://github.com/johnkily/haus-wrapped-card)** – a monthly review of your home, like Spotify Wrapped.
+- **[Blueprints](https://github.com/johnkily/ha-blueprints)** – doorbell, waste bins, washing machine, alarm clock and more, imported with one click. Guides in English.
+- **[Kily's World in English](https://kilysworld.com/in-english/)** – all cards and blueprints on one page, with pictures from our dashboard.
+
+If the card saves you time, you can [buy me a coffee](https://ko-fi.com/johnkily) ☕
+
 ---
 
 ## Deutsch
