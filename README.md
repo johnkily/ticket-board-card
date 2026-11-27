@@ -28,7 +28,7 @@ A Kanban board for everything that needs doing around the house. Wishes and task
 
 [![Open in the Marketplace](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=johnkily&repository=ticket-board-card&category=plugin)
 
-Or by hand: *Settings → Marketplace → ⋮ → Custom repositories* → `https://github.com/johnkily/ticket-board-card`, type **Dashboard**. Then install **Ticket Board Card** and reload the browser or app.
+Or by hand: search for **Ticket Board Card** in the Marketplace – it's in the default list since 27 November 2026. Download it and reload the browser or app.
 
 ### Manual
 
