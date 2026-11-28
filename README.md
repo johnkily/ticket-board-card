@@ -96,7 +96,7 @@ This card is part of our own Home Assistant setup. There is more from it:
 - **[Blueprints](https://github.com/johnkily/ha-blueprints)** – doorbell, waste bins, washing machine, alarm clock and more, imported with one click. Guides in English.
 - **[Kily's World in English](https://kilysworld.com/in-english/)** – all cards and blueprints on one page, with pictures from our dashboard.
 
-If the card saves you time, you can [buy me a coffee](https://ko-fi.com/johnkily) ☕
+If the card saves you time, you can [buy me a coffee or tea](https://ko-fi.com/johnkily) ☕
 
 ---
 
